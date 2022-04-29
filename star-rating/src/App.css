@@ -1,0 +1,42 @@
+
+
+ .App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+
+
+
+body {
+  background-color: rgb(244, 236, 244);
+}
+
+.star-rating-filled {
+  fill: rgb(250, 11, 11);
+  background-color: rgb(0, 255, 4);
+}
+
+.star-rating-blank {
+  fill: #d8d8d8;
+}
+
+.star{
+  background-color:#00B67A;
+  margin:2px;
+/* display:flex;
+justify-content: center;
+padding: auto; */
+text-align: center;
+}
+
+
+.flex-container {
+  display: flex;
+
+ /* justify-content: center; */
+}
+
